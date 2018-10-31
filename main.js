@@ -5,6 +5,6 @@ $('#toPhotos').on('click', function() {
       {
         scrollTop: images
       },
-      1000
+      800
     );
   });
